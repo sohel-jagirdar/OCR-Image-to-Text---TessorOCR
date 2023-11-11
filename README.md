@@ -24,7 +24,7 @@ Tesseract can be trained to recognize other languages. See Tesseract Training fo
 
 ![1) Home UI](https://github.com/sohel-jagirdar/OCR-Image-to-Text---TessorOCR/assets/52422511/2b139f44-4c51-4217-9db1-1d2cd9963eec)
 
-**2) send for prediction**
+**2) Send for prediction**
 
 ![2) send for prediction](https://github.com/sohel-jagirdar/OCR-Image-to-Text---TessorOCR/assets/52422511/933c7296-2419-45c3-8f9a-edea68845cf2)
 
